@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mystic Deepika  </h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif" alt="DCoding" width="400" align="right">
+<img src="[https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fshristi26281534%2Fweb-developer-vs-software-developer-2en&psig=AOvVaw23GB4JCAL5s0wPBUM5iBn8&ust=1691174277416000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi_pp-RwYADFQAAAAAdAAAAABAE)" alt="DCoding" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deeppi259&label=Profile%20views&color=0e75b6&style=flat" alt="Deepika" /> </p>
 
